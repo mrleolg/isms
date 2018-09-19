@@ -1,2 +1,2 @@
 # isms
-Integrated service management system
+-isms
